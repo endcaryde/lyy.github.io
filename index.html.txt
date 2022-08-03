@@ -106,3 +106,6 @@ wb.save('数据.xlsx')  # 存入所有信息后，保存为filename.xlsx
 <div class="footer">
   <h2>底部内容</h2>
 </div>
+<html>
+<fout size:"4" color:"blank" face:"宋体">一个星星——也可以闪闪发光</fout>
+</html>

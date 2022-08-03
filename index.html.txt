@@ -42,3 +42,67 @@ for i in range(len(event_name)):  # 每页25条数据,写入工作表中
     ws.append([event_name[i], start_time[i], area_name[i], introduction[i]])
 
 wb.save('数据.xlsx')  # 存入所有信息后，保存为filename.xlsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="header">
+  <h1>一个星星——也可以闪闪发光</h1>
+  <p>关于自闭症孩子，我们如何对待？生病它不等于残疾。</p>
+</div>
+ 
+<div class="navbar">
+  <a href="#">链接</a>
+  <a href="#">链接</a>
+  <a href="#">链接</a>
+  <a href="#" class="right">链接</a>
+</div>
+ 
+<div class="row">
+  <div class="side">
+      <h2>关于他们</h2>
+      <h5></h5>
+      <div class="fakeimg" style="height:200px;">这边插入图像</div>
+      <p>现状..</p>
+      <h3>更多内容</h3>
+      <p>问题</p>
+      <div class="fakeimg" style="height:60px;">这边插入图像</div><br>
+      <div class="fakeimg" style="height:60px;">这边插入图像</div><br>
+      <div class="fakeimg" style="height:60px;">这边插入图像</div>
+  </div>
+  <div class="main">
+      <h2>标题</h2>
+      <h5>副标题</h5>
+      <div class="fakeimg" style="height:200px;">图像</div>
+      <p>一些文本..</p>
+      <p>他们需要关注！</p>
+      <br>
+      <h2>标题</h2>
+      <h5>副标题</h5>
+      <div class="fakeimg" style="height:200px;">图像</div>
+      <p>一些文本..</p>
+      <p></p>
+  </div>
+</div>
+ 
+<div class="footer">
+  <h2>底部内容</h2>
+</div>
